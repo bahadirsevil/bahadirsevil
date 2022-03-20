@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @bahadirsevil
-- 👀 I’m interested in Python
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on (guess what) PYTHON!
+- 👀 I’m interested in Data Sciences
+- 🌱 I’m currently learning Python,Sql
+- 💞️ I’m looking to collaborate on Data Sciences
 - 📫 Reach me via mail address gabalaksu@gmail.com
 
 <!---
